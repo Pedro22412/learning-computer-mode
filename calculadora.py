@@ -7,4 +7,8 @@ multi = num1 * num2
 divi = num1 / num2
 
 print("La suma es ", suma)
+<<<<<<< HEAD
 print("La resta es ", resta)
+=======
+print("La resta es ", resta)
+>>>>>>> cf3e97a (calculadora2)
